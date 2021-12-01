@@ -8,9 +8,10 @@ It is a basic flutter ui for startup name generator written in Flutter.
 1. Splash Screen
 </h4>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45822686/144305767-18cfe4e3-b12b-4af3-ae75-a04a2dc0beec.png" width="300" height="600">   
-</p>
+
+ 
+https://user-images.githubusercontent.com/45822686/144308890-fe75b1c8-d43d-459e-abc8-b70cd09e9bc5.mp4
+ 
 
 </br>
 
