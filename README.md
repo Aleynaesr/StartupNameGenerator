@@ -20,4 +20,18 @@ It is a basic flutter ui for startup name generator.
 
 <img src="https://user-images.githubusercontent.com/45822686/144306076-8442c3e9-a1fd-419d-b020-602054bc67ae.png" width="300" height="600">   
 
- 
+## To use this app follow below instructions :
+### Clone this app using below syntax:
+
+``` git clone https://github.com/balram0608/StartupNameGenerator.git ```
+
+* After cloning install packages using below syntax:
+
+``` flutter pub get ```
+
+* Above command will install all the necessary packages.
+
+* Run the app on your mobile using below command -:
+``` flutter run ```
+
+Thank you happy coding  🎈
