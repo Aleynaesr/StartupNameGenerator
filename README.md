@@ -1,16 +1,23 @@
-# home_page_design
+# Startup Name Generator
 
-A new Flutter project.
+It is a basic flutter ui for startup name generator.
 
-## Getting Started
+## This app have following things:
 
-This project is a starting point for a Flutter application.
+* Splash Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/45822686/144305767-18cfe4e3-b12b-4af3-ae75-a04a2dc0beec.png" width="300" height="600">   
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ * Home Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/45822686/144305917-af292409-e5f2-4afb-80bb-b5ea54802757.png" width="300" height="600">   
+
+ 
+ * Saved Names Screen
+
+<img src="https://user-images.githubusercontent.com/45822686/144306033-f2bd7602-147d-42f2-98be-34894115ee82.png" width="300" height="600">   
+ 
+
+<img src="https://user-images.githubusercontent.com/45822686/144306076-8442c3e9-a1fd-419d-b020-602054bc67ae.png" width="300" height="600">   
+
+ 
