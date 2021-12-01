@@ -20,7 +20,6 @@ It is a basic flutter ui for startup name generator written in Flutter.
 1. Splash Screen
 </h4>
 
-
  
 https://user-images.githubusercontent.com/45822686/144308890-fe75b1c8-d43d-459e-abc8-b70cd09e9bc5.mp4
  
