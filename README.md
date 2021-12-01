@@ -1,10 +1,8 @@
 # Startup Name Generator
 
 It is a basic flutter ui for startup name generator written in Flutter.
-
-## This app have following things:
-
-<table>
+ 
+<table align="center">
  <thead>
   <tr>
    <th> Features </th>
