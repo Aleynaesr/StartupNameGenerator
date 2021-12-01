@@ -4,6 +4,20 @@ It is a basic flutter ui for startup name generator written in Flutter.
 
 ## This app have following things:
 
+<table>
+ <thead>
+  <tr>
+   <th> Features </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr><td>You can find the best name for your new startup</td></tr>
+  <tr><td>You can copy the names and use them wherever you want.</td></tr>
+  <tr><td>And finally star the names you like and never forget</td></tr>
+</table>
+
+## This app have following things:
+
 <h4 align="center">
 1. Splash Screen
 </h4>
