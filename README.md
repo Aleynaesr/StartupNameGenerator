@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/45822686/144308890-fe75b1c8-d43d-459e-
 ## To use this app follow below instructions :
 #### Clone this app using below syntax:
 
-``` git clone https://github.com/balram0608/StartupNameGenerator.git ```
+``` git clone https://github.com/Aleynaesr/StartupNameGenerator.git ```
 
 * After cloning install packages using below syntax:
 
