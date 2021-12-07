@@ -14,7 +14,7 @@ It is a basic flutter ui for startup name generator written in Flutter.
   <tr><td>And finally star the names you like and never forget</td></tr>
 </table>
 
-## This app have following things:
+## This app has following things:
 
 <h4 align="center">
 1. Splash Screen
