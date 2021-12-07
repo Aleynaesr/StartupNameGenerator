@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -9,6 +10,18 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   final List<String> mainDataList = [
+    "Aria",
+    "Titus",
+    "Huxley",
+    "Scout",
+    "Cecily",
+    "Paxon",
+    "Sylar",
+    "Phine",
+    "Ziyra",
+    "Trixie",
+    "Quinly",
+    "Abra",
     "Alien",
     "Selection",
     "Collective",
@@ -113,14 +126,28 @@ class _HomeScreenState extends State<HomeScreen> {
           title: Column(
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.start,
-              children: const [
+              children: [
                 Text(
                   "StarName",
-                  style: TextStyle(color: Colors.white, fontSize: 24.0),
+                  style: GoogleFonts.balsamiqSans(
+                    textStyle: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 25,
+                      letterSpacing: 2,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
                 ),
                 Text(
                   "Startup Name Generator",
-                  style: TextStyle(color: Colors.white, fontSize: 12.0),
+                  style: GoogleFonts.balsamiqSans(
+                    textStyle: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 13.0,
+                      letterSpacing: 2,
+                      fontWeight: FontWeight.w700,
+                    ),
+                  ),
                 ),
               ]),
           leading: Padding(
@@ -160,7 +187,13 @@ class _HomeScreenState extends State<HomeScreen> {
                                 selectAll: true,
                                 cut: false,
                                 paste: false),
-                            style: const TextStyle(fontSize: 17.0),
+                            style: GoogleFonts.balsamiqSans(
+                              textStyle: const TextStyle(
+                                fontSize: 17.0,
+                                color: Colors.black87,
+                                letterSpacing: 1,
+                              ),
+                            ),
                           ),
                         ),
                       ),
@@ -195,10 +228,16 @@ class _HomeScreenState extends State<HomeScreen> {
               },
             ),
             favoriteDataList.isEmpty
-                ? const Center(
+                ? Center(
                     child: Text(
                       "You don't have a star name yet!",
-                      style: TextStyle(color: Colors.black, fontSize: 15.0),
+                      style: GoogleFonts.balsamiqSans(
+                        textStyle:  const TextStyle(
+                          fontSize: 17.0,
+                          color: Colors.black54,
+                          letterSpacing: 1,
+                        ),
+                      ),
                     ),
                   )
                 : ListView.builder(
@@ -219,7 +258,13 @@ class _HomeScreenState extends State<HomeScreen> {
                                       selectAll: true,
                                       cut: false,
                                       paste: false),
-                                  style: const TextStyle(fontSize: 17.0),
+                                  style: GoogleFonts.balsamiqSans(
+                                    textStyle: const TextStyle(
+                                      fontSize: 17.0,
+                                      color: Colors.black87,
+                                      letterSpacing: 1,
+                                    ),
+                                  ),
                                 ),
                               ),
                             ),
